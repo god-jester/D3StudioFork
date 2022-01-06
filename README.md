@@ -7,5 +7,5 @@ Downloads can be found under [Releases](https://github.com/Tonic-Box/D3Studio/re
 
 ![image](https://i.imgur.com/0DNKVaX.png)
 
-![image](https://i.imgur.com/rBiItB2.png)
+![image](https://i.imgur.com/LW0rDTv.png)
 

@@ -1,4 +1,4 @@
-# D3StudioFork v4.0 by jester
+# D3StudioFork v4.1 by jester
 A heavily improved Diablo 3 (RoS/Eternal) editor based on the recently open-sourced [D3Studio](https://github.com/Tonic-Box/D3Studio) by TonicBox
 
 Downloads can be found under [Releases](https://github.com/god-jester/D3StudioFork/releases) 

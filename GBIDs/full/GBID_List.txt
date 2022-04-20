@@ -1634,13 +1634,13 @@
 880593655	=	Frostburn Gauntlets	=	Gloves	=	Console	=	These gauntlets drain the warmth from anything they touch.
 880593654	=	Pendergrasps	=	Gloves	=	Console	=	Only the wisest adventurer is fit to don these powerful gauntlets.
 878388987	=	P2 TEST RING 050 (Patch 2.2.0) WIZARD	=	Developer Armor	=	Console	=	"~Your Fire Spells cause up to 3 enemies to explode, dealing 100% weapon Damage as Fire to enemies within 10 yards. (Wizard Only)"
-878388963	=	P2 TEST RING 049 (Patch 2.2.0)MONK	=	Developer Armor	=	Console	=	~Increase the passive effect of your Mystic Ally and the base passive effect of your Mantra by 100%. (Monk Only)
-878388962	=	P2 TEST RING 048 (Patch 2.2.0)BARBARIAN	=	Developer Armor	=	Console	=	"~While both Wrath of the Berserker and Call of the Ancients is active, you deal 100% Increased Damage. (Barbarian Only)"
+878388963	=	P2 TEST RING 049 (Patch 2.2.0) MONK	=	Developer Armor	=	Console	=	~Increase the passive effect of your Mystic Ally and the base passive effect of your Mantra by 100%. (Monk Only)
+878388962	=	P2 TEST RING 048 (Patch 2.2.0) BARBARIAN	=	Developer Armor	=	Console	=	"~While both Wrath of the Berserker and Call of the Ancients is active, you deal 100% Increased Damage. (Barbarian Only)"
 878388961	=	P2 TEST RING 047 (Patch 2.2.0)	=	Developer Armor	=	Console	=	~Blocks release forward a Fires of Heaven.
 878388960	=	P2 TEST RING 046 (Patch 2.2.0)	=	Developer Armor	=	Console	=	"~Slash attacks in all directions,"
 878388959	=	P2 TEST RING 045 (Patch 2.2.0)	=	Developer Armor	=	Console	=	~Justice spawns a Blessed Hammer when it hits an Enemy.
 878388958	=	P2 TEST RING 044 (Patch 2.2.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	~You and your pets take 100% less Damage for every Fetish you have alive. (Witch Doctor Only)
-878388957	=	P2 TEST RING 043 (Patch 2.2.0)BARBARIAN	=	Developer Armor	=	Console	=	~Ground Stomp causes an Avalanche. (Barbarian Only)
+878388957	=	P2 TEST RING 043 (Patch 2.2.0) BARBARIAN	=	Developer Armor	=	Console	=	~Ground Stomp causes an Avalanche. (Barbarian Only)
 878388956	=	P2 TEST RING 042 (Patch 2.2.0)	=	Developer Armor	=	Console	=	"~When your Shield Bash hits 3 or fewer enemies, its Damage is Increased by 100% and 25% of its Wrath cost is refunded."
 878388955	=	P2 TEST RING 041 (Patch 2.2.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	~Gargantuan instead summons three smaller gargantuans each more powerful the before (Witch Doctor only)(Patch 2.6.1)#~Gargantuan instead summons three smaller gargantuans that have their damage increased by 200%. (Witch Doctor only)
 878388954	=	P2 TEST RING 040 (Patch 2.2.0)	=	Developer Armor	=	Console	=	~Every use of Shield Bash and Sweep Attack reduces the cooldowns of your Laws and Defensive Skills by 1 second.
@@ -1649,23 +1649,23 @@
 878388928	=	P2 TEST RING 037 (Patch 2.2.0) WIZARD	=	Developer Armor	=	Console	=	"~Increase the Damage of Meteor by 100%. When your Meteor hits 3 or fewer enemies, the Damage is Increased by 100%. (Wizard Only)"
 878388927	=	P2 TEST RING 036 (Patch 2.2.0) WIZARD	=	Developer Armor	=	Console	=	"~Attacks increase your resistance to that type by 100% for 6 seconds. (Wizard Only)#(Patch 2.4.0)#~Arcane, Cold, Fire and Lightning attacks each increase all of your resistances by 100% for 8 seconds. (Wizard Only)##"
 878388926	=	P2 TEST RING 035 (Patch 2.2.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	~Summon a Fetish Sycophant when you hit with a Mana spender. (Witch Doctor Only)
-878388925	=	P2 TEST RING 034 (Patch 2.2.0)MONK	=	Developer Armor	=	Console	=	~Your Spirit Generators reduce your Damage taken by 100% for 3 seconds. (Monk Only)
-878388924	=	P2 TEST RING 033 (Patch 2.2.0)MONK	=	Developer Armor	=	Console	=	~Your Spirit Generators increase the weapon Damage of Dashing Strike to 100% for 6 seconds. (Monk Only)#(Patch 2.4.1)#~Your Spirit Generators increase the weapon Damage of Dashing Strike to 100% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 300% for 6 seconds. (Monk Only)#(Patch 2.6.1)#~Your Spirit Generators increase the weapon Damage of Dashing Strike to 100% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 1300% for 6 seconds. (Monk Only)
-878388923	=	P2 TEST RING 032 (Patch 2.2.0)BARBARIAN	=	Developer Armor	=	Console	=	~Wrath of the Berserker gains the effect of every rune. (Barbarian Only)
+878388925	=	P2 TEST RING 034 (Patch 2.2.0) MONK	=	Developer Armor	=	Console	=	~Your Spirit Generators reduce your Damage taken by 100% for 3 seconds. (Monk Only)
+878388924	=	P2 TEST RING 033 (Patch 2.2.0) MONK	=	Developer Armor	=	Console	=	~Your Spirit Generators increase the weapon Damage of Dashing Strike to 100% for 6 seconds. (Monk Only)#(Patch 2.4.1)#~Your Spirit Generators increase the weapon Damage of Dashing Strike to 100% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 300% for 6 seconds. (Monk Only)#(Patch 2.6.1)#~Your Spirit Generators increase the weapon Damage of Dashing Strike to 100% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by 1300% for 6 seconds. (Monk Only)
+878388923	=	P2 TEST RING 032 (Patch 2.2.0) BARBARIAN	=	Developer Armor	=	Console	=	~Wrath of the Berserker gains the effect of every rune. (Barbarian Only)
 878388922	=	P2 TEST RING 031 (Patch 2.2.0) DEMON HUNTER	=	Developer Armor	=	Console	=	~Rain of Vengeance deals 100% Increased Damage. (Demon Hunter Only)
 878388921	=	P2 TEST RING 030 (Patch 2.2.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	~Enemies hit by your Mana spenders take 100% more Damage from your pets for 4 seconds. (Witch Doctor Only)#(Patch 2.4.0)#~Enemies hit by your Mana spenders take 100% more damage from your pets for 8 seconds. (Witch Doctor Only)##
 878388897	=	P2 TEST RING 029 (Patch 2.2.0) MONK MYSTIC ALLY RING	=	Developer Armor	=	Console	=	"~Mystic Ally casts Cyclone Strike, Exploding Palm, Lashing Tail Kick, Seven Sided Strike, And Wave of Light when you do. (Monk Only)"
 878388896	=	P2 TEST RING 028 (Patch 2.2.0) WIZARD	=	Developer Armor	=	Console	=	"~Attacks increase your Damage by 100% for 6 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. Adding a stack refreshes the duration. (Wizard Only)#(Patch 2.4.0)#~Attacks increase your damage by 100% for 8 seconds. Arcane, Cold, Fire, and Lightning attacks each add one stack. At 4 stacks, each different elemental attack extends the duration by 2 seconds up to a maximum of 8 seconds. (Wizard Only)##"
-878388895	=	P2 TEST RING 027 (Patch 2.2.0)BARBARIAN	=	Developer Armor	=	Console	=	~Reduce the cooldown of Wrath of the Berserker and Call of the Ancients by 1 seconds for every 10 Fury you spend with an attack. (Barbarian Only)
-878388894	=	P2 TEST RING 026 (Patch 2.2.0)BARBARIAN	=	Developer Armor	=	Console	=	~The first Enemy hit by Furious Charge takes 100% additional Damage. (Barbarian Only)#(Patch 2.4.0)#~Every use of Furious Charge increases the damage of your next Fury-spending attack by 100%. The effect stacks. Every use of a Fury-spending attack consumes up to 5 stacks. (Barbarian Only)##
-878388893	=	P2 TEST RING 025 (Patch 2.2.0)BARBARIAN	=	Developer Armor	=	Console	=	~Enemies hit by your Furious Charge take 100% weapon Damage over 3 seconds. (Barbarian Only)#(Patch 2.4.0)#~Furious Charge refunds a charge if it hits only 1 enemy. (Barbarian Only)##
+878388895	=	P2 TEST RING 027 (Patch 2.2.0) BARBARIAN	=	Developer Armor	=	Console	=	~Reduce the cooldown of Wrath of the Berserker and Call of the Ancients by 1 seconds for every 10 Fury you spend with an attack. (Barbarian Only)
+878388894	=	P2 TEST RING 026 (Patch 2.2.0) BARBARIAN	=	Developer Armor	=	Console	=	~The first Enemy hit by Furious Charge takes 100% additional Damage. (Barbarian Only)#(Patch 2.4.0)#~Every use of Furious Charge increases the damage of your next Fury-spending attack by 100%. The effect stacks. Every use of a Fury-spending attack consumes up to 5 stacks. (Barbarian Only)##
+878388893	=	P2 TEST RING 025 (Patch 2.2.0) BARBARIAN	=	Developer Armor	=	Console	=	~Enemies hit by your Furious Charge take 100% weapon Damage over 3 seconds. (Barbarian Only)#(Patch 2.4.0)#~Furious Charge refunds a charge if it hits only 1 enemy. (Barbarian Only)##
 878388892	=	P2 TEST RING 024 (Patch 2.2.0)	=	Developer Armor	=	Console	=	~Your Ice Armor now reduces Damage from melee attacks by 100% and automatically casts Frost Nova whenever you take 10% of your Life in Damage.
 878388891	=	P2 TEST RING 023 (Patch 2.2.0) DEMON HUNTER	=	Developer Armor	=	Console	=	~Enemies snared by your Entangling Shot take 100% Increased Damage from all sources. (Demon Hunter Only)
-878388890	=	P2 TEST RING 022 (Patch 2.2.0)MONK	=	Developer Armor	=	Console	=	~Your Spirit Generators have 25% Increased attack speed and 100% Increased Damage. (Monk Only)
+878388890	=	P2 TEST RING 022 (Patch 2.2.0) MONK	=	Developer Armor	=	Console	=	~Your Spirit Generators have 25% Increased attack speed and 100% Increased Damage. (Monk Only)
 878388889	=	P2 TEST RING 021 (Patch 2.2.0) MONK DASHING STRIKE RING	=	Developer Armor	=	Console	=	~Dashing Strike spends 1 spirit but refunds a Charge when it does. (Monk Only)
 878388888	=	P2 Test Ring 020 (Patch 2.1.2) DEMON HUNTER	=	Developer Armor	=	Console	=	~Gain 100% damage reduction and deal 100% increased damage for 4 seconds if no enemy is within 10 yards of you. (Demon Hunter Only)#(Patch 2.4.0)#~Gain 100% damage reduction and deal 100% increased damage for 8 seconds if no enemy is within 10 yards of you. (Demon Hunter Only)##
-878388864	=	P2 Test Ring 019 (Patch 2.1.2)MONK	=	Developer Armor	=	Console	=	"~When your decoys explode, you gain a buff that increases the damage of Cyclone Strike, Exploding Palm, Lashing Tail Kick, Tempest Rush and Wave of Lights by 100% for 3 seconds. (Monk Only)"
-878388863	=	P2 Test Ring 018 (Patch 2.1.2)MONK	=	Developer Armor	=	Console	=	~Exploding Palm's on-death explosion applies Exploding Palm. (Monk Only)
+878388864	=	P2 Test Ring 019 (Patch 2.1.2) MONK	=	Developer Armor	=	Console	=	"~When your decoys explode, you gain a buff that increases the damage of Cyclone Strike, Exploding Palm, Lashing Tail Kick, Tempest Rush and Wave of Lights by 100% for 3 seconds. (Monk Only)"
+878388863	=	P2 Test Ring 018 (Patch 2.1.2) MONK	=	Developer Armor	=	Console	=	~Exploding Palm's on-death explosion applies Exploding Palm. (Monk Only)
 878388862	=	P2 Test Ring 017 (Patch 2.1.2) DEMON HUNTER	=	Developer Armor	=	Console	=	~Multishot hits enemies below 100% health twice. (Demon Hunter Only)
 878388861	=	P2 Test Ring 016 (Patch 2.1.2) WIZARD	=	Developer Armor	=	Console	=	~Energy Twister periodically pulls in lesser enemies within 30 yards. (Wizard Only)
 878388860	=	P2 Test Ring 015 (Patch 2.1.2) WIZARD	=	Developer Armor	=	Console	=	~Slow Time gains the effect of every rune. (Wizard Only)
@@ -1674,15 +1674,15 @@
 878388857	=	P2 Test Ring 012 (Patch 2.1.2) WIZARD	=	Developer Armor	=	Console	=	"~Enemies affected by your Slow Time take 100% more damage from your Arcane Orb, Energy Twister, Magic Missile and Shock Pulse abilities. (Wizard Only)#(Patch 2.4.0)#~Enemies affected by your Slow Time take 100% more damage from your Arcane Orb, Energy Twister, Explosive Blast, Magic Missile, Shock Pulse, Spectral Blade, and Wave of Force abilities. (Wizard Only)##(Patch 2.6.1)#~Enemies affected by your Slow Time take 100% increased damage from your Arcane Orb, Energy Twister, Explosive Blast, Magic Missile, Shock Pulse, Spectral Blade, and Wave of Force abilities. (Wizard Only)"
 878388856	=	P2 Test Ring 011 (Patch 2.1.2)	=	Developer Armor	=	Console	=	"~Every 1 seconds, call down Bombardment on a random nearby enemy."
 878388855	=	P2 Test Ring 010 (Patch 2.1.2) WIZARD	=	Developer Armor	=	Console	=	~Enemies affected by your Slow Time take 100% weapon damage every second. (Wizard Only)
-878388831	=	P2 Test Ring 009 (Patch 2.1.2)BARBARIAN	=	Developer Armor	=	Console	=	~Frenzy gains the effect of every rune. (Barbarian Only)
+878388831	=	P2 Test Ring 009 (Patch 2.1.2) BARBARIAN	=	Developer Armor	=	Console	=	~Frenzy gains the effect of every rune. (Barbarian Only)
 878388830	=	P2 Test Ring 008 (Patch 2.1.2)	=	Developer Armor	=	Console	=	"~Whenever a gem drops, a gem of the type socketed into your helmet also drops.(Patch 2.6.1)#~Whenever a gem drops, a gem of the type socketed into your helmet also drops. This does not apply to Legendary Gems. "
 878388829	=	P2 Test Ring 007 (Patch 2.1.2) DEMON HUNTER	=	Developer Armor	=	Console	=	~Your generators also generate 1 Discipline. (Demon Hunter Only)#(Patch 2.4.0)#~Your generators generate 2 additional Hatred and 1 Discipline. (Demon Hunter Only)##
 878388828	=	P2 Test Ring 006 (Patch 2.1.2) DEMON HUNTER	=	Developer Armor	=	Console	=	~Drop Caltrops when using Vault. (Demon Hunter Only)
 878388827	=	P2 Test Ring 005 (Patch 2.1.2) DEMON HUNTER	=	Developer Armor	=	Console	=	"~Your generators and Multishot deal 100% increased damage for every point of Discipline you have. (Demon Hunter Only)#(Patch 2.4.0)#~Your generators, Multishot, and Vengeance deal 100% increased damage for every point of Discipline you have. (Demon Hunter Only)##"
-878388826	=	P2 Test Ring 004 (Patch 2.1.2)BARBARIAN	=	Developer Armor	=	Console	=	~Increase the damage of Whirlwind by 100% weapon damage. (Barbarian Only)
-878388825	=	P2 Test Ring 003 (Patch 2.1.2)BARBARIAN	=	Developer Armor	=	Console	=	~Whirlwind gains the effect of the Dust Devils rune and Dust Devils damage is increased to 100% weapon damage. (Barbarian Only)
-878388824	=	P2 Test Ring 002 (Patch 2.1.2)BARBARIAN	=	Developer Armor	=	Console	=	~Increase the damage per second of Rend by 100% and its duration to 15 seconds. (Barbarian Only)
-878388823	=	Test Ring 001 (Patch 2.1.2)BARBARIAN	=	Developer Armor	=	Console	=	~During Whirlwind you gain 100% damage reduction. (Barbarian Only)#(Patch 2.4.3)#~During Whirlwind you gain 100% damage reduction and your applied Rends deal triple damage. (Barbarian Only)#
+878388826	=	P2 Test Ring 004 (Patch 2.1.2) BARBARIAN	=	Developer Armor	=	Console	=	~Increase the damage of Whirlwind by 100% weapon damage. (Barbarian Only)
+878388825	=	P2 Test Ring 003 (Patch 2.1.2) BARBARIAN	=	Developer Armor	=	Console	=	~Whirlwind gains the effect of the Dust Devils rune and Dust Devils damage is increased to 100% weapon damage. (Barbarian Only)
+878388824	=	P2 Test Ring 002 (Patch 2.1.2) BARBARIAN	=	Developer Armor	=	Console	=	~Increase the damage per second of Rend by 100% and its duration to 15 seconds. (Barbarian Only)
+878388823	=	Test Ring 001 (Patch 2.1.2) BARBARIAN	=	Developer Armor	=	Console	=	~During Whirlwind you gain 100% damage reduction. (Barbarian Only)#(Patch 2.4.3)#~During Whirlwind you gain 100% damage reduction and your applied Rends deal triple damage. (Barbarian Only)#
 87458782	=	px DevilsHand TestGlobe Dropped (Patch 2.2.0)	=	NPC Items	=	Console	=	~No Description
 872964849	=	Journal of Hansan Haile, Captain	=	Lore	=	Console	=	
 872863289	=	Design: Flawless Royal Topaz	=	Jeweler Design	=	Console	=	
@@ -1692,17 +1692,17 @@
 872647661	=	Faded Recipe	=	Jeweler Design	=	Console	=	Manic scribbles and diagrams cover the page, showing how to combine three items into one.
 872611723	=	Faded Recipe	=	Jeweler Design	=	Console	=	Manic scribbles and diagrams cover the page, showing how to combine three items into one.
 870187311	=	P41 Unique Ring 015 (Patch 2.4.1)	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Your damage is increased by 100% for each enemy that is burning. Elites that are burning increase your damage by 5000%. You can only have one Elite damage bonus active at a time.#(Patch 2.6.1)# comes in blank
-870187308	=	P41 Unique Ring 012 (Patch 2.4.1)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Dashing Strike reduces your damage taken by 100% for 6 seconds. (Monk Only)#
+870187308	=	P41 Unique Ring 012 (Patch 2.4.1) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Dashing Strike reduces your damage taken by 100% for 6 seconds. (Monk Only)#
 870187307	=	P41 Unique Ring 011 (Patch 2.4.1) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Elemental Arrow gain an effect based on the rune: #~Ball Lightning now travels at 30% speed.#~Frost Arrow damage and Chilled duration increased by 100%.#~Immolation Arrow ground damage over time increased by 100%.#~Lightning Bolts damage and Stun duration increased by 100%.#~Nether Tentacles damage and healing amount increased by 100%. (Demon Hunter Only)#
-870187306	=	P41 Unique Ring 010 (Patch 2.4.1)MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.1)#~Dashing Strike increases the damage of Dashing Strike by 100% for 1 second, stacking up to 5 times. (Monk Only)#"
+870187306	=	P41 Unique Ring 010 (Patch 2.4.1) MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.1)#~Dashing Strike increases the damage of Dashing Strike by 100% for 1 second, stacking up to 5 times. (Monk Only)#"
 870187282	=	P41 Unique Ring 009 (Patch 2.4.1)	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Cold skills deal 100% increased damage and have a 50% chance to Freeze enemies.#
 870187281	=	P41 Unique Ring 008 (Patch 2.4.1)	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Fire skills deal 100% increased damage.#
 870187280	=	P41 Unique Ring 007 (Patch 2.4.1) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Rapid Fire deals 100% increased damage for every half second that you channel. Stacks up to 4 times. (Demon Hunter Only)#
 870187279	=	P41 Unique Ring 006 (Patch 2.4.1) CRUSADER	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Your Shield Glare deals damage equal to up to your last 1 Shield Bash casts. (Crusader Only)#
 870187278	=	P41 Unique Ring 005 (Patch 2.4.1) WITCH DOCTOR	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Firebats deal 100% increased damage to enemies affected by Locust Swarm or Piranhas. (Witch Doctor Only)#
-870187277	=	P41 Unique Ring 004 (Patch 2.4.1)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Increase the damage of Seven-Sided Strike by 100% and reduce the cooldown of Seven-Sided Strike by 100%. (Monk Only)#
+870187277	=	P41 Unique Ring 004 (Patch 2.4.1) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Increase the damage of Seven-Sided Strike by 100% and reduce the cooldown of Seven-Sided Strike by 100%. (Monk Only)#
 870187276	=	P41 Unique Ring 003 (Patch 2.4.1) WITCH DOCTOR	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Sacrifice deals 100% additional damage against enemies affected by Locust Swarm or Grasp of the Dead. (Witch Doctor Only)#
-870187275	=	P41 Unique Ring 002 (Patch 2.4.1)BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Increase the damage of Whirlwind by 100%. (Barbarian Only)#
+870187275	=	P41 Unique Ring 002 (Patch 2.4.1) BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~Increase the damage of Whirlwind by 100%. (Barbarian Only)#
 870187274	=	P41 Unique Ring 001 (Patch 2.4.1) WIZARD	=	Developer Armor	=	Console	=	(Patch 2.4.1)#~You take 100% less damage for 3 seconds after your Storm Armor electrocutes an enemy more than 30 yards away. (Wizard Only)#
 868864648	=	Panther's Claw (Patch 2.4.1)	=	Fist Weapons	=	Console	=	DPS: 7.7#DMG: 4-7#APS: 1.50#
 868864647	=	Hand of Despair (Patch 2.4.1)	=	Fist Weapons	=	Console	=	DPS: 7.7#DMG: 4-7#APS: 1.41#
@@ -2595,7 +2595,7 @@
 2082269451	=	Testing: Echo Band Defense	=	Rings	=	Console	=	~35 to All Attributes
 2082266693	=	Testing: Echo Band Attack	=	Rings	=	Console	=	~35 to All Attributes
 2082266421	=	Testing: Echo Band All	=	Rings	=	Console	=	~55 to All Attributes
-2077255630	=	Legendary: Vengeful  Wind(Patch 2.6.7)MONK	=	Fist Weapons	=	Console	=	~Increases the max stack count of sweeping wind by 10 and increases the damage by 600-800%
+2077255630	=	Legendary: Vengeful Wind(Patch 2.6.7) MONK	=	Fist Weapons	=	Console	=	~Increases the max stack count of sweeping wind by 10 and increases the damage by 600-800%
 2077105940	=	Jesseth Skullshield (Necromancer Set: Jesseth Arms)	=	Shields	=	Console	=	+1 Random Magic Properties#[2 Items]#~When the target of your Command Skeletons dies, your skeletons are automatically commanded to attack a nearby target#~While your skeletons are commanded to attack a target, you deal 400% increased damage
 2075082288	=	Trag'Oul's Heart (Necromancer Set: Trag'Oul's Avatar)	=	Shoulders	=	Console	=	+2 Random Magic Properties#[2 Items]#~Blood Rush gains the effect of every rune#[4 Items]#~While at full Life, your healing from skills is added to your maximum Life for 45 seconds, up to 100% more#[6 Items]#~Your Life-spending abilities deal 3800% increased damage and your healing from skills is increased by 100%
 2073430088	=	Forgotten Soul	=	Crafting Components	=	Console	=	~No Description
@@ -2898,7 +2898,7 @@
 186340431	=	Plans: The Infernal Machine	=	Blacksmith Plan	=	Console	=	
 1862624984	=	Legendary: Sin Seekers (Patch 2.4.3) DEMON HUNTER	=	Quivers	=	Console	=	~Rapid Fire no longer has a channel cost. (Demon Hunter Only)#
 1861701111	=	Legendary: Drakon's Lesson (Patch 2.2.0)	=	Bracers	=	Console	=	"~When your Shield Bash hits 3 or fewer enemies, its damage is increased by 150-200% and 25% of its Wrath Cost is refunded."
-1861701087	=	Legendary: Spirit Guards (Patch 2.2.0)MONK	=	Bracers	=	Console	=	~Your spirit generators reduce your damage taken by 30-40% for 3 seconds. (Monk Only)
+1861701087	=	Legendary: Spirit Guards (Patch 2.2.0) MONK	=	Bracers	=	Console	=	~Your spirit generators reduce your damage taken by 30-40% for 3 seconds. (Monk Only)
 1861699995	=	Legendary: Gungdo Gear (Patch 2.1.2) MONK	=	Bracers	=	Console	=	~Exploding Palm's on-death Explosion applies Exploding Palm. (Monk Only)
 1861699992	=	Legendary: Mortick's Brace (Patch 2.2.0) BARBARIAN	=	Bracers	=	Console	=	~Wrath of the Berserker gains the effect of every rune.(Barbarian only)
 1861064448	=	Hallowed Baton (Set: Hallowed Protectors)	=	Wands	=	Console	=	An angelic artifact re-forged to suit the needs of a hero wielding the powers of the nephalem.#[2 Items]#~Attack Speed Increased by 10#~+100 Resistance to All Elements
@@ -3240,7 +3240,7 @@
 1661412396	=	Base (Tier 07) Soldier Axe	=	"Axes, One-Handed"	=	Console	=	DPS: 31.2-33.2#DMG: (17-18)-(31-33)#APS: 1.3
 1661412395	=	Base (Tier 06) Marauder Axe	=	"Axes, One-Handed"	=	Console	=	DPS: 26.7-28.6#DMG: (15-16)-(26-28)#APS: 1.3
 1661412394	=	Base (Tier 05) Battle Axe	=	"Axes, One-Handed"	=	Console	=	DPS: 21.5-23.4#DMG: (12-13)-(21-23)#APS: 1.3
-1661412393	=	Base (Tier 04) Heavy Axe	=	"Axes, One-Handed"	=	Console	=	DPS: 17.6-19.5#DMG: (10-11)-(17-19)#APS: 1.3( Patch 2.6.1)DPS: 10-18#DMG: (10-18)#APS: 1.3
+1661412393	=	Base (Tier 04) Heavy Axe	=	"Axes, One-Handed"	=	Console	=	DPS: 17.6-19.5#DMG: (10-11)-(17-19)#APS: 1.3( Patch 2.6.1) DPS: 10-18#DMG: (10-18)#APS: 1.3
 1661412392	=	Base (Tier 03) Double Axe	=	"Axes, One-Handed"	=	Console	=	DPS: 10.4-12.4#DMG: (6-7)-(10-12)#APS: 1.3
 1661412391	=	Base (Tier 02) Broad Axe	=	"Axes, One-Handed"	=	Console	=	DPS: 7.2-9.1#DMG: (4-5)-(7-9)#APS: 1.3
 1661412390	=	Base (Tier 01) Hand Axe	=	"Axes, One-Handed"	=	Console	=	DPS: 3.3-4.6#DMG: (2-3)-(3-4)#APS: 1.3
@@ -3476,9 +3476,9 @@
 1510927202	=	Test Buff Ring (Patch 2.4.0)	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~1,000,000% Physical skill damage##"
 1510927201	=	P4 Unique Ring 081 (Patch 2.4.0) CRUSADER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Testing: Phalanx Power.##(Patch 2.6.1)#~TEMP Phalanx Power (Crusader Only)
 1510927200	=	P4 Unique Ring 080 (Patch 2.4.0) MONK MYSTIC ALLY RING	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Gain the five runed Mystic Allies at all times and your damage is increased by 100% for each Mystic Ally you have out. (Monk Only)##
-1510927176	=	P4 Unique Ring 079 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Testing: Mystic Ally Shoulders. (Monk Only)##(Patch 2.6.1)#~TEMP Mystic Ally Shoulders (Monk Only)
-1510927175	=	P4 Unique Ring 078 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Cyclone Strike reduces your damage taken by 100% for 5 seconds. (Monk Only)##
-1510927174	=	P4 Unique Ring 077 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Enemies hit by your Cyclone Strike take 100% more damage from your Mystic Ally for 5 seconds. (Monk Only)##
+1510927176	=	P4 Unique Ring 079 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Testing: Mystic Ally Shoulders. (Monk Only)##(Patch 2.6.1)#~TEMP Mystic Ally Shoulders (Monk Only)
+1510927175	=	P4 Unique Ring 078 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Cyclone Strike reduces your damage taken by 100% for 5 seconds. (Monk Only)##
+1510927174	=	P4 Unique Ring 077 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Enemies hit by your Cyclone Strike take 100% more damage from your Mystic Ally for 5 seconds. (Monk Only)##
 1510927173	=	P4 Unique Ring 076 (Patch 2.4.0) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Rapid Fire no longer has a channel cost. (Demon Hunter Only)##
 1510927172	=	P4 Unique Ring 075 (Patch 2.4.0)	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~While above 100% primary resource, all damage taken is reduced by 50%.##"
 1510927171	=	P4 Unique Ring 074 (Patch 2.4.0) WIZARD	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~While channeling Arcane Torrent, Disintegrate, or Ray of Frost, all damage is increased by 100%. (Wizard Only)##"
@@ -3487,42 +3487,42 @@
 1510927168	=	P4 Unique Ring 071 (Patch 2.4.0) WIZARD	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Testing: Channeling Ring Power. (Wizard Only)##(Patch 2.6.1)#~TEMP Channeling Ring Power (Wizard Only)
 1510927167	=	P4 Unique Ring 070 (Patch 2.4.0) WIZARD	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Increases the potency of your shields by 100%. (Wizard Only)##
 1510927143	=	P4 Unique Ring 069 (Patch 2.4.0) WIZARD	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Each time you hit an enemy with Explosive Blast your damage is increased by 100% and your damage reduction is increased by 15% for 6 seconds. This effect can stack up to 4 times. (Wizard Only)##
-1510927142	=	P4 Unique Ring 068 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Enemies take 100% increased damage from your Tempest Rush for 5 seconds after you hit them with a Blind, Freeze, or Stun. (Monk Only)##"
-1510927141	=	P4 Unique Ring 067 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~When your Tempest Rush hits 3 or fewer enemies, it gains 100% Critical Hit Chance. (Monk Only)##(Patch 2.6.1)#~The damage of Tempest Rush is increade by 200% and when your Tempest Rush hits 3 or fewer enemies, it gains 100% Critical Hit Chance. (Monk Only)"
+1510927142	=	P4 Unique Ring 068 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Enemies take 100% increased damage from your Tempest Rush for 5 seconds after you hit them with a Blind, Freeze, or Stun. (Monk Only)##"
+1510927141	=	P4 Unique Ring 067 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~When your Tempest Rush hits 3 or fewer enemies, it gains 100% Critical Hit Chance. (Monk Only)##(Patch 2.6.1)#~The damage of Tempest Rush is increade by 200% and when your Tempest Rush hits 3 or fewer enemies, it gains 100% Critical Hit Chance. (Monk Only)"
 1510927140	=	P4 Unique Ring 066 (Patch 2.4.0) WIZARD	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Your Arcane Torrent, Disintegrate, and Ray of Frost also cast one of your other damaging Arcane Power Spenders every second. (Wizard Only)##"
 1510927139	=	P4 Unique Ring 065 (Patch 2.4.0) WIZARD	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Elemental Exposure's damage bonus per stack is increased to100%. (Wizard Only)##
 1510927138	=	P4 Unique Ring 064 (Patch 2.4.0) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Vault deals 100% increased damage. (Demon Hunter Only)##
 1510927137	=	P4 Unique Ring 063 (Patch 2.4.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Grasp of the Dead no longer has a cooldown. (Witch Doctor Only)##
-1510927136	=	P4 Unique Ring 062 (Patch 2.4.0)BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Your primary skills heal you for 100% of your missing Life. (Barbarian Only)##
+1510927136	=	P4 Unique Ring 062 (Patch 2.4.0) BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Your primary skills heal you for 100% of your missing Life. (Barbarian Only)##
 1510927135	=	P4 Unique Ring 061 (Patch 2.4.0) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Attacks grant you an absorb shield for 100% of your maximum Life. Stacks up to 10 times. (Demon Hunter Only)##
 1510927134	=	P4 Unique Ring 060 (Patch 2.4.0) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Shadow Power also triggers Smoke Screen. (Demon Hunter Only)##
 1510927110	=	P4 Unique Ring 059 (Patch 2.4.0) CRUSADER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Crusader Thorns Ring (Crusader Only)##
 1510927109	=	P4 Unique Ring 058 (Patch 2.4.0)	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~While standing still, damage dealt is increased by up to 100%.##"
 1510927108	=	P4 Unique Ring 057 (Patch 2.4.0)	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~While moving, damage taken is reduced by up to 100%.##"
-1510927107	=	P4 Unique Ring 056 (Patch 2.4.0)BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Bash consumes up to 40 Fury to deal up to 100% increased damage. (Barbarian Only)##
+1510927107	=	P4 Unique Ring 056 (Patch 2.4.0) BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Bash consumes up to 40 Fury to deal up to 100% increased damage. (Barbarian Only)##
 1510927106	=	P4 Unique Ring 055 (Patch 2.4.0)	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Your primary skills attack 50% faster and deal 100% increased damage.##
-1510927105	=	P4 Unique Ring 054 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Increase the damage of Wave of Light by 150%. When the initial impact of your Wave of Light hits 3 or fewer enemies, the damage is increased by 100%. (Monk Only).##"
-1510927104	=	P4 Unique Ring 053 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Wave of Light also Slows enemies by 80% for 3 seconds and deals 100% increased damage. (Monk Only)##
+1510927105	=	P4 Unique Ring 054 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Increase the damage of Wave of Light by 150%. When the initial impact of your Wave of Light hits 3 or fewer enemies, the damage is increased by 100%. (Monk Only).##"
+1510927104	=	P4 Unique Ring 053 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Wave of Light also Slows enemies by 80% for 3 seconds and deals 100% increased damage. (Monk Only)##
 1510927103	=	P4 Unique Ring 052 (Patch 2.4.0) CRUSADER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Gain 100% increased damage while using Steed Charge and for 5 seconds after it ends. (Crusader Only)##
 1510927102	=	P4 Unique Ring 051 (Patch 2.4.0) CRUSADER	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Increases the duration of Steed Charge by 2 seconds. In addition, killing an enemy reduces the cooldown of Steed Charge by 1 second. (Crusader Only)##"
-1510927101	=	P4 Unique Ring 050 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Sweeping Wind gains 1 stacks every second it does not deal damage to any enemies. (Monk Only)##
+1510927101	=	P4 Unique Ring 050 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Sweeping Wind gains 1 stacks every second it does not deal damage to any enemies. (Monk Only)##
 1510927077	=	P4 Unique Ring 049 (Patch 2.4.0)	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~After casting Furious Charge, Ground Stomp, or Leap, take 100% reduced damage for 8 seconds.##"
-1510927076	=	P4 Unique Ring 048 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Lashing Tail Kick attacks 50% faster and deals 100% increased damage. (Monk Only)##
+1510927076	=	P4 Unique Ring 048 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Lashing Tail Kick attacks 50% faster and deals 100% increased damage. (Monk Only)##
 1510927075	=	P4 Unique Ring 047 (Patch 2.4.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Reduces cooldown of Mass Confusion by 1 seconds. (Witch Doctor Only)##
 1510927074	=	P4 Unique Ring 046 (Patch 2.4.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Firebomb generates 1 Mana. (Witch Doctor Only)##
 1510927073	=	P4 Unique Ring 045 (Patch 2.4.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Spirit Barrage gains the effects of the Phlebotomize and The Spirit is Willing runes. (Witch Doctor Only)##
-1510927072	=	P4 Unique Ring 044 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Your damage taken is reduced by 100% while Sweeping Wind is active. (Monk Only)##
-1510927071	=	P4 Unique Ring 043 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Every second Sweeping Wind spawns a decoy next to the last enemy you hit that taunts nearby enemies and then explodes for 100% weapon damage for each stack of Sweeping Wind you have. (Monk Only)##
+1510927072	=	P4 Unique Ring 044 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Your damage taken is reduced by 100% while Sweeping Wind is active. (Monk Only)##
+1510927071	=	P4 Unique Ring 043 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Every second Sweeping Wind spawns a decoy next to the last enemy you hit that taunts nearby enemies and then explodes for 100% weapon damage for each stack of Sweeping Wind you have. (Monk Only)##
 1510927070	=	P4 Unique Ring 042 (Patch 2.4.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Firebats attacks 100% faster and costs 100% less Mana. (Witch Doctor Only)##(Patch 2.6.1)#~Firebats attacks 100% faster and costs 100% less Mana, and has its damage increased by 60%. (Witch Doctor Only)"
 1510927069	=	P4 Unique Ring 041 (Patch 2.4.0) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Vengeance gains the effect of the Dark Heart rune. (Demon Hunter Only)##
 1510927068	=	P4 Unique Ring 040 (Patch 2.4.0) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Chakram deals 100% increased damage for every point of Hatred you have. (Demon Hunter Only)##
 1510927044	=	P4 Unique Ring 039 (Patch 2.4.0)	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~While channeling Whirlwind, Rapid Fire, Strafe, Tempest Rush, Firebats, Arcane Torrent, Disintegrate, or Ray of Frost, you deal 100% increased damage and take 25% reduced damage.##"
 1510927043	=	P4 Unique Ring 038 (Patch 2.4.0) DEMON HUNTER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~You take 100% less damage for every Companion you have active. (Demon Hunter Only)##
-1510927042	=	P4 Unique Ring 037 (Patch 2.4.0)BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Increase the damage of Weapon Throw and Ancient Spear by 100%. (Barbarian Only)##
+1510927042	=	P4 Unique Ring 037 (Patch 2.4.0) BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Increase the damage of Weapon Throw and Ancient Spear by 100%. (Barbarian Only)##
 1510927041	=	P4 Unique Ring 036 (Patch 2.4.0)	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Gain Thorns equal to 100% of your Vitality.##
-1510927040	=	P4 Unique Ring 035 (Patch 2.4.0)BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Furious Charge deals increased damage equal to 100% of your bonus movement speed. (Barbarian Only)##
+1510927040	=	P4 Unique Ring 035 (Patch 2.4.0) BARBARIAN	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Furious Charge deals increased damage equal to 100% of your bonus movement speed. (Barbarian Only)##
 1510927039	=	P4 Unique Ring 034 (Patch 2.4.0)	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Gain damage reduction equal to 100% of your Block Chance.##
-1510927038	=	P4 Unique Ring 033 (Patch 2.4.0)MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Lashing Tail Kick, Tempest Rush, and Wave of Light consume a stack of Sweeping Wind to deal 100% increased damage. (Monk Only)##"
+1510927038	=	P4 Unique Ring 033 (Patch 2.4.0) MONK	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Lashing Tail Kick, Tempest Rush, and Wave of Light consume a stack of Sweeping Wind to deal 100% increased damage. (Monk Only)##"
 1510927037	=	P4 Unique Ring 032 (Patch 2.4.0)	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~Reduces damage from melee attacks by 100%.##
 1510927036	=	P4 Unique Ring 031 (Patch 2.4.0) CRUSADER	=	Developer Armor	=	Console	=	(Patch 2.4.0)#~The attack speed of Punish and Slash are increased by 50% and deal 100% of your Thorns damage to the first enemy hit. (Crusader Only)##
 1510927035	=	P4 Unique Ring 030 (Patch 2.4.0) CRUSADER	=	Developer Armor	=	Console	=	"(Patch 2.4.0)#~Enemies take 100% increased damage from your Blessed Hammers for 10 seconds after you hit them with a Blind, Immobilize, or Stun. (Crusader Only)##"
@@ -3693,7 +3693,7 @@
 1350327417	=	Legendary: Fulminator	=	"Swords, One-Handed"	=	Console	=	"~Lightning damage has a chance to turn enemies into lightning rods, causing them to pulse 167-200% weapon damage as Lightning every second to nearby enemies for 6 seconds.##(Patch 2.6.1)#~Lightning damage has a chance to turn enemies into lightning rods, causing them to pulse 167-222% weapon damage as Lightning every second to nearby enemies for 6 seconds.#"
 1350291480	=	Legendary: Gift of Silaria	=	"Swords, One-Handed"	=	Console	=	DMG: 4.2 APS: 1.40
 1350255543	=	Legendary: Exarian	=	"Swords, One-Handed"	=	Console	=	~No Description
-1350219606	=	"Legendary: Thunderfury, Blessed Blade of the Windseeker"	=	"Swords, One-Handed"	=	Console	=	"~Chance on hit to blast your enemy with Lightning, dealing 279-372% weapon damage as Lightning and then jumping to additional nearby enemies. Each enemy hit has their attack speed and movement speed reduced by 30% for 3 seconds. Jumps up to 5 targets."
+1350219606	=	Legendary: Thunderfury, Blessed Blade of the Windseeker	=	"Swords, One-Handed"	=	Console	=	"~Chance on hit to blast your enemy with Lightning, dealing 279-372% weapon damage as Lightning and then jumping to additional nearby enemies. Each enemy hit has their attack speed and movement speed reduced by 30% for 3 seconds. Jumps up to 5 targets."
 1349166159	=	Art_Test_Fist_5	=	Testing: Art	=	Console	=	
 1349166158	=	Testing: Art Test Fist 4	=	Testing: Art	=	Console	=	~Orange Glowing Blade
 1349166157	=	Testing: Art Test Fist 3 MONK	=	Testing: Art	=	Console	=	~Pink Fist
@@ -4251,26 +4251,26 @@
 -952825731	=	P3 Test Ring 015 (Patch 2.3.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	~Summon a permanent Spider Queen who leaves behind webs that deal 500% weapon damage over 5 seconds and slows enemies. The Spider Queen is commanded to move to where you cast your Corpse Spiders. (Witch Doctor Only)
 -952825730	=	P3 Test Ring 016 (Patch 2.3.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	"~Hex gains the effect of the Toad of Hugeness rune. While Toad of Hugeness is active, you take 100% reduced damage After Toad of Hugeness finishes his meal, you will heal for 10% of your maximum life per second for 10 seconds.#(Patch 2.4.0)#~Hex gains the effect of the Toad of Hugeness rune. After summoning a Toad of Hugeness, you gain 100% damage reduction and heal for 10% of your maximum life per second for 15 seconds. (Witch Doctor Only)##"
 -952825729	=	P3 Test Ring 017 (Patch 2.3.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	"~The damage of your creature skills is increased by 100%. Creature skills are Corpse spiders, Plague of toads, Firebats, Locust Swarm, Hex, and Piranhas. (Witch Doctor Only)"
--952825728	=	P3 Test Ring 018 (Patch 2.3.0)MONK	=	Developer Armor	=	Console	=	~Your Seven-Sided Strike deals double its total damage with each hit. (Monk Only)(Patch 2.6.1)#~Your Seven-Sided Strike deals 200% its total damage with each hit. (Monk Only)
--952825727	=	P3 Test Ring 019 (Patch 2.3.0)MONK	=	Developer Armor	=	Console	=	~Every third hit of your Spirit Generators applies Exploding Palm. (Monk Only)
--952825703	=	P3 Test Ring 020 (Patch 2.3.0)MONK	=	Developer Armor	=	Console	=	~Your Seven-Sided Strike detonates your Exploding Palm. (Monk Only)#(Patch 2.4.1)#~Increase the damage of your Exploding Palm by 100% and your Seven-Sided Strike detonates your Exploding Palm. (Monk Only)#
+-952825728	=	P3 Test Ring 018 (Patch 2.3.0) MONK	=	Developer Armor	=	Console	=	~Your Seven-Sided Strike deals double its total damage with each hit. (Monk Only)(Patch 2.6.1)#~Your Seven-Sided Strike deals 200% its total damage with each hit. (Monk Only)
+-952825727	=	P3 Test Ring 019 (Patch 2.3.0) MONK	=	Developer Armor	=	Console	=	~Every third hit of your Spirit Generators applies Exploding Palm. (Monk Only)
+-952825703	=	P3 Test Ring 020 (Patch 2.3.0) MONK	=	Developer Armor	=	Console	=	~Your Seven-Sided Strike detonates your Exploding Palm. (Monk Only)#(Patch 2.4.1)#~Increase the damage of your Exploding Palm by 100% and your Seven-Sided Strike detonates your Exploding Palm. (Monk Only)#
 -952825702	=	P3 Test Ring 021 (Patch 2.3.0) WIZARD	=	Developer Armor	=	Console	=	"~Every time you hit with an attack while not in Archon form, 100% weapon damage is added to the Wave of Destruction, stacking up to 20 times. (Wizard Only)"
 -952825701	=	P3 Test Ring 022 (Patch 2.3.0) WIZARD	=	Developer Armor	=	Console	=	~The bonuses from Archon stacks now last for 1 Seconds after Archon expires. (Wizard Only)
 -952825700	=	P3 Test Ring 023 (Patch 2.3.0)	=	Developer Armor	=	Console	=	~Judgment gains the effect of the Debilitate run and is cast at your landing location when casting Falling Sword.
 -952825699	=	P3 Test Ring 024 (Patch 2.3.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	"~The first time an enemy deals damage to you, reduce that damage by 100% and Charm the enemy for 3 seconds. (Witch Doctor Only)"
--952825698	=	P3 Test Ring 025 (Patch 2.3.0)MONK	=	Developer Armor	=	Console	=	~The damage of your Spirit Generators is increased by 100.0% for each point of Spirit you have. (Monk Only)
--952825697	=	P3 Test Ring 026 (Patch 2.3.0)MONK	=	Developer Armor	=	Console	=	"~When reaching maximum spirit, all damage is increased by 100%, but you no longer passively regenerate Spirit and 65 Spirit is drained every second until you run out of Spirit. (Monk Only)"
--952825696	=	P3 Test Ring 027 (Patch 2.3.0)MONK	=	Developer Armor	=	Console	=	~Each hit with Seven-Sided Strike grants 100.0% damage reduction for 7 seconds. (Monk Only)
+-952825698	=	P3 Test Ring 025 (Patch 2.3.0) MONK	=	Developer Armor	=	Console	=	~The damage of your Spirit Generators is increased by 100.0% for each point of Spirit you have. (Monk Only)
+-952825697	=	P3 Test Ring 026 (Patch 2.3.0) MONK	=	Developer Armor	=	Console	=	"~When reaching maximum spirit, all damage is increased by 100%, but you no longer passively regenerate Spirit and 65 Spirit is drained every second until you run out of Spirit. (Monk Only)"
+-952825696	=	P3 Test Ring 027 (Patch 2.3.0) MONK	=	Developer Armor	=	Console	=	~Each hit with Seven-Sided Strike grants 100.0% damage reduction for 7 seconds. (Monk Only)
 -952825695	=	P3 Test Ring 028 (Patch 2.3.0) DEMON HUNTER	=	Developer Armor	=	Console	=	~Your primary skills attack 30% faster and deal 100% increased damage. (Demon Hunter Only)
 -952825694	=	P3 Test Ring 029 (Patch 2.3.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	"~While channeling Firebats, you take 30% reduced damage and gain 1 Life per Hit.#(Patch 2.4.0)#~While channeling Firebats, you gain 30% damage reduction and 1 life per hit. (Witch Doctor Only)##"
 -952825670	=	P3 Test Ring 030 (Patch 2.3.0)	=	Developer Armor	=	Console	=	~Reduces the number of items needed for set bonuses by 1 (to a minimum of 2).
 -952825669	=	P3 Test Ring 031 (Patch 2.3.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	~Wall of Death deals 100% increased damage and can be cast up to three times within 2 seconds before the cooldown begins. (Witch Doctor Only)
--952825668	=	P3 Test Ring 032 (Patch 2.3.0)BARBARIAN	=	Developer Armor	=	Console	=	~Hammer of the Ancients attacks 50% faster and deals 100% increased damage. (Barbarian Only)
--952825667	=	P3 Test Ring 033 (Patch 2.3.0)BARBARIAN	=	Developer Armor	=	Console	=	~Call of the Ancients gains the effect of the Ancients' Fury rune. (Barbarian Only)
--952825666	=	P3 Test Ring 034 (Patch 2.3.0)BARBARIAN	=	Developer Armor	=	Console	=	~Cleave deals up to 100% increased damage based on percentage of missing fury. (Barbarian Only)
--952825665	=	P3 Test Ring 035 (Patch 2.3.0)BARBARIAN	=	Developer Armor	=	Console	=	~Seismic Slam deals 100% damage to the first 5 enemies it hits. (Barbarian Only)
+-952825668	=	P3 Test Ring 032 (Patch 2.3.0) BARBARIAN	=	Developer Armor	=	Console	=	~Hammer of the Ancients attacks 50% faster and deals 100% increased damage. (Barbarian Only)
+-952825667	=	P3 Test Ring 033 (Patch 2.3.0) BARBARIAN	=	Developer Armor	=	Console	=	~Call of the Ancients gains the effect of the Ancients' Fury rune. (Barbarian Only)
+-952825666	=	P3 Test Ring 034 (Patch 2.3.0) BARBARIAN	=	Developer Armor	=	Console	=	~Cleave deals up to 100% increased damage based on percentage of missing fury. (Barbarian Only)
+-952825665	=	P3 Test Ring 035 (Patch 2.3.0) BARBARIAN	=	Developer Armor	=	Console	=	~Seismic Slam deals 100% damage to the first 5 enemies it hits. (Barbarian Only)
 -952825664	=	P3 Test Ring 036 (Patch 2.3.0) DEMON HUNTER	=	Developer Armor	=	Console	=	~Demon Hunter defensive item.  (Demon Hunter Only)
--952825663	=	P3 Test Ring 037 (Patch 2.3.0)BARBARIAN	=	Developer Armor	=	Console	=	~Weapon Throw generates up to 1 additional Fury based on how far away the enemy hit is. Maximum benefit when the enemy hit is 20 or more yards away. (Barbarian Only)
+-952825663	=	P3 Test Ring 037 (Patch 2.3.0) BARBARIAN	=	Developer Armor	=	Console	=	~Weapon Throw generates up to 1 additional Fury based on how far away the enemy hit is. Maximum benefit when the enemy hit is 20 or more yards away. (Barbarian Only)
 -952825662	=	P3 Test Ring 038 (Patch 2.3.0) DEMON HUNTER	=	Developer Armor	=	Console	=	~Your Hatred Generators reduce your damage taken by 100% for 5 seconds. (Demon Hunter Only)
 -952825661	=	P3 Test Ring 039 (Patch 2.3.0)	=	Developer Armor	=	Console	=	~Increase the effect of any gem socketed into your helm by 100%.(Patch 2.6.1)#~Increase the effect of any gem socketed into your helm by 100%. This does not apply to Legendary Gems.
 -952825637	=	P3 Test Ring 040 (Patch 2.3.0) WITCH DOCTOR	=	Developer Armor	=	Console	=	~Reduce the Mana cost of Zombie Charger by 100% (Witch Doctor Only)
@@ -5461,7 +5461,7 @@
 -234196765	=	Abyssal Dye	=	Dye	=	Console	=	The inky blackness seems to grow even darker when exposed to the sun, as though it were drinking in the very light that touches it.
 -233132079	=	Testing: P1 fistWeapon norm Legendary 01 (Patch 2.1.1)	=	Fist Weapons	=	Console	=	(Patch 2.3.0)#Lion's Claw#~Seven-Sided Strike performs an additional 7 Strikes.#
 -233132078	=	Legendary: Vengeful Wind (Patch 2.1.0) MONK	=	Fist Weapons	=	Console	=	~Increases the maximum stack count of Sweeping Wind by 3. (Monk Only)
--232423704	=	Legendary: Darklight(Patch 2.6.7)CRUSADER	=	"Flails, One-Handed"	=	Console	=	(Aeigs of Valor)#~Gauntlets of Valor (Hands)#~Spaulders of Valor (Shoulders)#~Chausses of Valor (Legs)#~Crown of Valor (Head)#~Brigandine of Valor (Torso)#~Greaves ofValor (Feet)#~Set Bonus: Attacking with Fist of the Heavens increases Heaven's Fury damage by 100% for 5 seconds, stacking up to 3 times multiplicatively (2 pieces)#~Hitting with Fist of the Heavens generates 5 Wrath and reduces damage taken by 1% for 5 seconds, stacking up to 50 times (4 pieces)#~Increase the damage of Fist of the Heavens and Heaven's Fury by 20000% (6 pieces)~Fist of the Heavens has a 45-60% chance to also be cast at your location
+-232423704	=	Legendary: Darklight(Patch 2.6.7) CRUSADER	=	"Flails, One-Handed"	=	Console	=	(Aeigs of Valor)#~Gauntlets of Valor (Hands)#~Spaulders of Valor (Shoulders)#~Chausses of Valor (Legs)#~Crown of Valor (Head)#~Brigandine of Valor (Torso)#~Greaves ofValor (Feet)#~Set Bonus: Attacking with Fist of the Heavens increases Heaven's Fury damage by 100% for 5 seconds, stacking up to 3 times multiplicatively (2 pieces)#~Hitting with Fist of the Heavens generates 5 Wrath and reduces damage taken by 1% for 5 seconds, stacking up to 50 times (4 pieces)#~Increase the damage of Fist of the Heavens and Heaven's Fury by 20000% (6 pieces)~Fist of the Heavens has a 45-60% chance to also be cast at your location
 -231803528	=	Base (Tier 01) Two-Handed Sword	=	"Swords, Two-Handed"	=	Console	=	DPS: 11.0-12.1#DMG: (8-9)-(12-13)#APS: 1.1
 -231803527	=	Base (Tier 02) Flamberge	=	"Swords, Two-Handed"	=	Console	=	DPS: 16.0-17.6#DMG: (12-13)-(17-19)#APS: 1.1
 -231803526	=	Base (Tier 03) Dervish	=	"Swords, Two-Handed"	=	Console	=	DPS: 49.0-50.6#DMG: (36-37)-(53-55)#APS: 1.1
@@ -5526,7 +5526,7 @@
 -2141708820	=	Legendary: Piercer (Patch 2.3.0)	=	Fist Weapons	=	Console	=	~No Description
 -2126877461	=	Example Book	=	Lore	=	Console	=	
 -2122397885	=	Plan: Seven Sins	=	Blacksmith Plan	=	Console	=	
--2120824630	=	"Legendary: Akanesh, the Herald of Righteousness"	=	Spears	=	Console	=	~15-25% Holy skill damage
+-2120824630	=	Legendary: Akanesh, the Herald of Righteousness	=	Spears	=	Console	=	~15-25% Holy skill damage
 -2120788693	=	Legendary: Steffon's Heavy Lance	=	Spears	=	Console	=	~No Description
 -2120012506	=	Frame: Imperius (Patch 2.4.0)	=	Portrait Frames	=	Console	=	~No Description
 -2120012505	=	Frame: Imperius - Slayer (Patch 2.4.0)	=	Portrait Frames	=	Console	=	~No Description
@@ -6671,7 +6671,7 @@
 -1171541998	=	Faded Recipe	=	Jeweler Design	=	Console	=	Manic scribbles and diagrams cover the page, showing how to combine three items into one.
 -1171434184	=	Design: Royal Amethyst	=	Jeweler Design	=	Console	=	
 -1171398246	=	Design: Flawless Royal Amethyst	=	Jeweler Design	=	Console	=	
--1170762813	=	"Legendary: Ahavarion, Spear of Lycander"	=	Staves	=	Console	=	~Chance on killing a Demon to gain a random Shrine effect
+-1170762813	=	Legendary: Ahavarion, Spear of Lycander	=	Staves	=	Console	=	~Chance on killing a Demon to gain a random Shrine effect
 -1170726876	=	Legendary: Valthek's Rebuke	=	Staves	=	Console	=	~Energy Twister now travels in a straight path.
 -1170690939	=	Legendary: The Smoldering Core WIZARD	=	Staves	=	Console	=	~Lesser enemies are now lured to your Meteor impact areas. (Wizard Only)
 -1170685627	=	Shield of the Steed (Crusader Set: Norvald's Fervor)	=	Crusader Shields	=	Console	=	+2 Random Magic Properties#[2 Items]#~Increases the duration of Steed Charge by 2 seconds#~Gain 400% increased damage while using Steed Charge and for 5 seconds after it ends
@@ -6898,7 +6898,7 @@
 -1019131513	=	Bonus Cache: BonusAct2BagT8	=	Caches	=	Console	=	
 -1019131512	=	Bonus Cache: BonusAct2BagT9	=	Caches	=	Console	=	
 -1018735616	=	Mystical Source	=	Crafting Components	=	Console	=	~No Description
--1013712106	=	Base(Tier 15)Totemic Mask	=	Voodoo Masks	=	Console	=	AR: 102-117
+-1013712106	=	Base(Tier 15) Totemic Mask	=	Voodoo Masks	=	Console	=	AR: 102-117
 -101312757	=	Base (Tier 01) Javelin	=	Spears	=	Console	=	DPS: 7.2-8.4#DMG: (5-6)-(7-8)#APS: 1.2
 -101312756	=	Base (Tier 02) Fuscina	=	Spears	=	Console	=	DPS: 12.6-14.4#DMG: (9-10)-(12-14)#APS: 1.2
 -101312755	=	Base (Tier 03) Spear	=	Spears	=	Console	=	DPS: 18.6-20.4#DMG: (13-14)-(18-20)#APS: 1.2

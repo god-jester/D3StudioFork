@@ -1,4 +1,4 @@
-# D3StudioFork v4.2 by jester
+# D3StudioFork v4 by jester
 ## A heavily improved Diablo 3 (RoS/Eternal) editor based on the recently open-sourced [D3Studio](https://github.com/Tonic-Box/D3Studio) by TonicBox
 
 ## Downloads can be found under [Releases](https://github.com/god-jester/D3StudioFork/releases) 
@@ -7,7 +7,7 @@
 
 - **Every single GBID (7,206), Affix (7,479), and Rare Name string (60,661) in the game**
 - Incredible performance: launches and loads saves in a fraction of the time of all other editors, with massively reduced RAM usage
-- Instant responsiveness: tasks and threading implemented by @GoobyCorp
+- Instant responsiveness: tasks and threading implemented by GoobyCorp
 	- When testing the database of 60k strings, another editor took 41 minutes to launch... but v4.2 launches instantly!
 - Support for editing the **<ins>Sanctified</ins>** item flag, **which only works during Seasonal play**
 	- Note that you can only have one Sanctified item equipped at a time
@@ -28,7 +28,17 @@
  	- With D3StudioFork, Soul Shards have always leveled up properly and unlocked new Hell Powers (affixes) when upgraded, just like the legit items
 - Full support for displaying and editing the 8 missing follower item slots, every single item slot in the game is properly handled: 32 total new slots including generic follower slots and Scoundrel/Templar/Enchantress
 - Changed "Max All Materials" to "99999999 Materials" so you can still pick up materials in-game
-- Lots and lots of UI and quality-of-life improvements exclusive to this fork
+- **Everything is inside one EXE now**
+- Added "Seasonal" checkbox next to the "Set 21 Dots/Max Stats" button that will instantly convert your character to and from current season
+- Removed the (Seasonal) text from the Sex/HeroCore dropdown; each season seems to rotate the IDs, so it was unreliable
+- Made all stashes forcibly and recursively change the item slot from 0-910 (max) for each item, this avoids situations where editing and duping too many items in the editor wouldn't show up in-game: I ran into this issue with only 148 items in my stash, now **fixed!**
+- Fixed type conversion for item IDs to what the game expects: `unsigned long` - this fixes some rare arithmetic errors
+- Fixed Blacksmith being set to level 56, correctly goes to 12 now
+- Error messages are now more descriptive if there is an issue when launching, previously it would ALWAYS say "Fatal Error: Missing libraries"
+- Added a "Max Positive Stats" button on Hero page next to "Set 21 Dots/Max Stats" for Paragon modding, with updated math to be as potent as possible
+- Changed cosmetic images and icons, and they no longer stretch/distort. The new size of primary executable is ~4MB
+- Changed colors and layout all around the whole tool, and if an item's prefix is "Jester's" it has a custom color!
+- Lots and lots of improvements to the UI (e.g. layout improvements, fixed typos) and quality-of-life features (easier duplication, pasting rare names, etc.)
 ### **<ins>PLEASE</ins> read the [extensive changelog in v4.0](https://github.com/god-jester/D3StudioFork/releases/tag/v4.0.0)** for full changes compared to D3Studio 3.5
 
 <hr>

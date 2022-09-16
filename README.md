@@ -1,7 +1,12 @@
-# D3StudioFork v4 by jester
-## A heavily improved Diablo 3 (RoS/Eternal) editor based on the recently open-sourced [D3Studio](https://github.com/Tonic-Box/D3Studio) by TonicBox
+<h1 align="center" style="margin-top: 0px;">D3StudioFork v4 by jester</h1>
 
-## Downloads can be found under [Releases](https://github.com/god-jester/D3StudioFork/releases) 
+<h2 align="center" style="margin-top: 0px;"> A modern Diablo 3 save editor (Reaper of Souls and Eternal Collection), based on the recently open-sourced <a href="https://github.com/Tonic-Box/D3Studio">D3Studio</a> by TonicBox</h2>
+
+<h3 align="center" style="margin-top: 0px;"> Downloads can be found under <a href="https://github.com/god-jester/D3StudioFork/releases">Releases</a></h3>
+
+<p align="center" style="margin-bottom: 0px !important;">
+  <a href="https://jester.dev"><img src="https://discordapp.com/api/guilds/879421301054386186/widget.png?style=banner3" alt="Discord Banner" align="center"></a>
+</p>
 
 ## Exclusive Features
 

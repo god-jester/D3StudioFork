@@ -1,15 +1,34 @@
-<h1 align="center" style="margin-top: 0px;">D3StudioFork v4 by jester</h1>
+<h1 align="center" style="margin-top: 0px;">
+	D3StudioFork v4 by jester
+</h1>
 
-<h2 align="center" style="margin-top: 0px;"> A modern Diablo 3 save editor (Reaper of Souls and Eternal Collection), based on the recently open-sourced <a href="https://github.com/Tonic-Box/D3Studio">D3Studio</a> by TonicBox</h2>
+<h2 align="center" style="margin-top: 0px;">
+  A modern Diablo 3 save editor (Reaper of Souls/Eternal Collection), based on <a href="https://github.com/Tonic-Box/D3Studio">D3Studio</a> by TonicBox
+</h2>
 
-<h3 align="center" style="margin-top: 0px;"> Downloads can be found under <a href="https://github.com/god-jester/D3StudioFork/releases">Releases</a></h3>
+<h3 align="center" style="margin-top: 0px;">
+	Downloads can be found on the <a href="https://github.com/god-jester/D3StudioFork/releases">Releases</a> page
+</h3>
 
-<p align="center" style="margin-bottom: 0px !important;">
-  <a href="https://jester.dev"><img src="https://discordapp.com/api/guilds/879421301054386186/widget.png?style=banner3" alt="Discord Banner" align="center"></a>
+<p align="center" style="margin-bottom: 20px;">
+  <a href="https://jester.dev/discord">
+    <img src="https://discordapp.com/api/guilds/879421301054386186/widget.png?style=banner3" alt="Discord Banner" align="center">
+  </a>
 </p>
 
-## Exclusive Features
+<h3 align="center">
+  This is a tool for editing your items, gear, and stats on your account and characters (heroes). Developed primarily for PS4 and Nintendo Switch for seasonal save modding!
+</h3>
 
+<hr>
+
+<p align="center" width="100%">
+	<img src="https://i.imgur.com/jZ7cr4q.png" alt="Main Screenshot"> 
+</p>
+
+<br>
+
+## Exclusive features in this release
 - **Every single GBID (7,206), Affix (7,479), and Rare Name string (60,661) in the game**
 - Incredible performance: launches and loads saves in a fraction of the time of all other editors, with massively reduced RAM usage
 - Instant responsiveness: tasks and threading implemented by GoobyCorp
@@ -30,7 +49,7 @@
 - The Stash tab used to have items stuck in different slots when importing from the Locker or a Hero File, but now it will correctly force everything into your Stash
 - Still the only editor to handle all the new data in S25 Soul Shards (which, along with Ethereals, can still be used in all seasonal play)
  	- If inserting/modifying legit items or opening a save with S25 Soul Shards, you can actually copy/paste/duplicate them without the constant errors from every other editor, and they will behave properly when leveled up in-game
- 	- With D3StudioFork, Soul Shards have always leveled up properly and unlocked new Hell Powers (affixes) when upgraded, just like the legit items
+ 	- With D3Studio Fork, Soul Shards have always leveled up properly and unlocked new Hell Powers (affixes) when upgraded, just like the legit items
 - Full support for displaying and editing the 8 missing follower item slots, every single item slot in the game is properly handled: 32 total new slots including generic follower slots and Scoundrel/Templar/Enchantress
 - Changed "Max All Materials" to "99999999 Materials" so you can still pick up materials in-game
 - **Everything is inside one EXE now**
@@ -44,23 +63,24 @@
 - Changed cosmetic images and icons, and they no longer stretch/distort. The new size of primary executable is ~4MB
 - Changed colors and layout all around the whole tool, and if an item's prefix is "Jester's" it has a custom color!
 - Lots and lots of improvements to the UI (e.g. layout improvements, fixed typos) and quality-of-life features (easier duplication, pasting rare names, etc.)
+
+
 ### **<ins>PLEASE</ins> read the [extensive changelog in v4.0](https://github.com/god-jester/D3StudioFork/releases/tag/v4.0.0)** for full changes compared to D3Studio 3.5
 
 <hr>
 
-![image](https://i.imgur.com/jZ7cr4q.png)
+<p align="center" width="100%">
+	<img src="https://i.imgur.com/aWaxHNL.png"> 
+</p>
 
-![image](https://i.imgur.com/aWaxHNL.png)
+<p align="center" width="100%">
+	<img src="https://i.imgur.com/LHBHCJX.png"> 
+</p>
 
-<details>
-  <summary>More screenshots</summary>
-  
-  ![image](https://i.imgur.com/LHBHCJX.png)
+<p align="center" width="100%">
+	<img src="https://i.imgur.com/kh3aRXu.png"> 
+</p>
 
-  ![image](https://i.imgur.com/kh3aRXu.png)
-
-  ![image](https://i.imgur.com/s3xNnnp.png)
-  
-  https://user-images.githubusercontent.com/90997402/149216231-26232c89-eb1e-4837-a62c-bb3995de7af5.mp4
-  
-</details>
+<p align="center" width="100%">
+	<img src="https://i.imgur.com/s3xNnnp.png"> 
+</p>

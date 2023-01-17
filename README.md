@@ -1,34 +1,41 @@
-<h1 align="center" style="margin-top: 0px;">
+<h1 align="center">
 	D3StudioFork v4 by jester
 </h1>
 
-<h2 align="center" style="margin-top: 0px;">
-  A modern Diablo 3 save editor (Reaper of Souls/Eternal Collection), based on <a href="https://github.com/Tonic-Box/D3Studio">D3Studio</a> by TonicBox
+<h2 align="center">
+	Next generation Diablo 3 save editor (Reaper of Souls & Eternal Collection)
 </h2>
 
-<h3 align="center" style="margin-top: 0px;">
-	Downloads can be found on the <a href="https://github.com/god-jester/D3StudioFork/releases">Releases</a> page
-</h3>
+<p align="center">
+	This modding tool is for editing your items, gold, materials, gear, and stats for your Diablo 3 characters (heroes) and profile (account). Developed <ins>primarily for PS4 and Nintendo Switch for modding seasonal saves.</ins> Based on <a href="https://github.com/Tonic-Box/D3Studio-Source">D3Studio</a> by TonicBox. </p>
 
-<p align="center" style="margin-bottom: 20px;">
-  <a href="https://jester.dev/discord">
-    <img src="https://discordapp.com/api/guilds/879421301054386186/widget.png?style=banner3" alt="Discord Banner" align="center">
-  </a>
+<h2 align="center">
+	Downloads can be found on the <a href="https://github.com/god-jester/D3StudioFork/releases">Releases</a> page
+</h2>
+
+<p align="center">
+	This is <ins>the most popular editor</ins> for creating and sharing D3 modded PS4 saves to download and resign, usually for people who bought Save Wizard. If you don't have Save Wizard or a jailbroken PS4 and would like YOUR PS4/PS5 save to be modded (keep your heroes), <ins>you may purchase on my Discord</ins> - or join just to chat! - by clicking below:
 </p>
 
-<h3 align="center">
-  This is a tool for editing your items, gear, and stats on your account and characters (heroes). Developed primarily for PS4 and Nintendo Switch for seasonal save modding!
-</h3>
+<p align="center">
+	<a href="https://jester.dev/discord">
+		<img src="https://discordapp.com/api/guilds/879421301054386186/widget.png?style=banner3" alt="Discord Banner">
+	</a>
+</p>
+
+<h4 align="center">
+	Currently updated for Season 27, with Season 28 planned when it releases soon in 2023!
+</h4>
 
 <hr>
 
-<p align="center" width="100%">
-	<img src="https://i.imgur.com/jZ7cr4q.png" alt="Main Screenshot"> 
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/90997402/212484729-d9221506-84f0-4c6f-9853-af4f5e9d3867.png" alt="Main Screenshot"> 
 </p>
 
 <br>
 
-## Exclusive features in this release
+## Exclusive features found only in this editor:
 - **Every single GBID (7,206), Affix (7,479), and Rare Name string (60,661) in the game**
 - Incredible performance: launches and loads saves in a fraction of the time of all other editors, with massively reduced RAM usage
 - Instant responsiveness: tasks and threading implemented by GoobyCorp
@@ -69,18 +76,26 @@
 
 <hr>
 
-<p align="center" width="100%">
-	<img src="https://i.imgur.com/aWaxHNL.png"> 
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/90997402/212484629-e22ae8af-002c-420f-ad59-2fad40959bf9.png" alt="2023 Screenshot PS4"> 
 </p>
 
-<p align="center" width="100%">
-	<img src="https://i.imgur.com/LHBHCJX.png"> 
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/90997402/212484693-3e253b21-3cdf-41e3-93b0-127415c81700.png" alt="PS4 Screenshot 2023"> 
 </p>
 
-<p align="center" width="100%">
-	<img src="https://i.imgur.com/kh3aRXu.png"> 
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/90997402/212484700-56ef3242-e690-4df3-bac6-22b68cae73da.png" alt="D3Studio Screenshot D3StudioFork"> 
 </p>
 
-<p align="center" width="100%">
-	<img src="https://i.imgur.com/s3xNnnp.png"> 
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/90997402/212484711-13ba67fa-9682-47e3-bc47-30acbaedaa5c.png" alt="Character Screenshot Hero D3Studio"> 
+</p>
+	
+<p align="center">
+	This fork of D3Studio is the fastest and best D3 save/hero editing tool for <b>PS4 (Playstation 4), Nintendo Switch (including Yuzu), and PS5 (Playstation 5)</b> in 2023. This application was made for <b>Diablo III: Reaper of Souls (RoS) and Eternal Collection.</b> It will work with <b>Diablo 3 Vanilla for PS3 (Playstation 3) and Xbox 360,</b> but it is not ideal. 
+</p>
+
+<p align="center"> 
+	D3StudioFork is also known as D3Studio Fork and D3 Studio Fork: a save modding tool based on D3Studio. It supercedes D3RoSEdit and DIIIROS.SaveEdit (DIII Save Editor) with more and better features. It will not work with Xbox One/Series X|S until a method is discovered to decrypt and edit game saves. Not compatible with the PC version of Diablo 3!
 </p>

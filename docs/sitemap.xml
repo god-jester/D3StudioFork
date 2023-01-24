@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+      <url>
+        <loc>https://diablo.jester.dev/D3StudioFork/</loc>
+        <lastmod>2023-01-22T13:33:37-07:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.00</priority>
+      </url>
+      <url>
+        <loc>https://diablo.jester.dev/D3ROS-Modding-Seasons/</loc>
+        <lastmod>2023-01-22T13:33:37-07:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.50</priority>
+      </url>
+      <url>
+        <loc>https://diablo.jester.dev/D3StudioFast/</loc>
+        <lastmod>2023-01-22T13:33:37-07:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.25</priority>
+      </url>
+</urlset>

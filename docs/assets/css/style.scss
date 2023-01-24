@@ -1,0 +1,123 @@
+---
+---
+@import "jekyll-theme-dracula";
+@import "dracula-ui.css";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700&display=swap');
+// @import url('https://unpkg.com/dracula-ui@1.0.4/src/styles/dracula-ui.css');
+// @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+$noto: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$fira: "Fira Code", "Inconsolata", "Times New Roman", Times, serif;
+$source: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+.red {
+  h1, h3 { color: $red; }
+  h2 { color: darken($orange, 10%); }
+  h4, h5, h6 { color: $pink; }
+  a {
+    color: darken($pink, 5%);
+    &:hover { color: darken($pink, 20%); }
+  }
+  hr { background: $red; }
+  blockquote { border-color: $red; }
+}
+body { font:16px/1.5 $noto; }
+h1, h2, h3, h4 { font-family: $fira; font-weight: bold; }
+h3 { font-size: 20px; }
+a { font-weight: inherit; }
+#header { border-bottom: 2px solid #bd93f9; font: 16px/1.5 $noto; }
+nav ul, nav ol { margin: 0px; padding: 0px; }
+#header nav li a { border: 1px solid #ff79c6; }
+.wrapper, section, #header nav { max-width: 970px; }
+section #title { margin-bottom: 5px; }
+section #title h1 { text-align: center; padding-bottom: 10px; }
+#main a { text-decoration: underline; }
+.carousel__slide { cursor: pointer !important; }
+.carousel__indicator, .carousel__control { cursor: default !important; }
+.drac-gradient {
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-size: 100%;
+  -webkit-box-decoration-break: clone
+}
+.drac-gradient a { border-bottom:solid 2px; }
+.drac-yellow-pink { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$yellow),to($pink));
+  background-image: -webkit-linear-gradient(135deg, $yellow 0, $pink 100%);
+  background-image: -moz-linear-gradient(135deg, $yellow 0, $pink 100%);
+  background-image: linear-gradient(135deg, $yellow 0, $pink 100%); 
+}
+.drac-pink-yellow { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$pink),to($yellow));
+  background-image: -webkit-linear-gradient(135deg, $pink 0, $yellow 100%);
+  background-image: -moz-linear-gradient(135deg, $pink 0, $yellow 100%);
+  background-image: linear-gradient(135deg, $pink 0, $yellow 100%); 
+}
+
+.drac-purple-cyan { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$purple),to($cyan));
+  background-image: -webkit-linear-gradient(135deg, $purple 0, $cyan 100%);
+  background-image: -moz-linear-gradient(135deg, $purple 0, $cyan 100%);
+  background-image: linear-gradient(135deg, $purple 0, $cyan 100%);
+ }
+.drac-cyan-purple { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$cyan),to($purple));
+  background-image: -webkit-linear-gradient(135deg, $cyan 0, $purple 100%);
+  background-image: -moz-linear-gradient(135deg, $cyan 0, $purple 100%);
+  background-image: linear-gradient(135deg, $cyan 0, $purple 100%);
+ }
+
+.drac-red-orange { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$red),to(darken($orange, 5%)));
+  background-image: -webkit-linear-gradient(135deg, $red 0, darken($orange, 5%) 100%);
+  background-image: -moz-linear-gradient(135deg, $red 0, darken($orange, 5%) 100%);
+  background-image: linear-gradient(135deg, $red 0, darken($orange, 5%) 100%);
+ }
+.drac-orange-red { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,darken($orange, 5%)),to($red));
+  background-image: -webkit-linear-gradient(135deg, darken($orange, 5%) 0, $red 100%);
+  background-image: -moz-linear-gradient(135deg, darken($orange, 5%) 0, $red 100%);
+  background-image: linear-gradient(135deg, darken($orange, 5%) 0, $red 100%);
+ }
+
+.drac-pink-purple { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$pink),to($purple));
+  background-image: -webkit-linear-gradient(135deg, $pink 0, $purple 100%);
+  background-image: -moz-linear-gradient(135deg, $pink 0, $purple 100%);
+  background-image: linear-gradient(135deg, $pink 0, $purple 100%);
+ }
+.drac-purple-pink { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$purple),to($pink));
+  background-image: -webkit-linear-gradient(135deg, $purple 0, $pink 100%);
+  background-image: -moz-linear-gradient(135deg, $purple 0, $pink 100%);
+  background-image: linear-gradient(135deg, $purple 0, $pink 100%);
+ }
+
+.drac-cyan-green { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$cyan),to($green));
+  background-image: -webkit-linear-gradient(135deg, $cyan 0, $green 100%);
+  background-image: -moz-linear-gradient(135deg, $cyan 0, $green 100%);
+  background-image: linear-gradient(135deg, $cyan 0, $green 100%);
+ }
+.drac-green-cyan { 
+  background-image: -webkit-gradient(linear,left top,left bottom,from(135deg),color-stop(0,$green),to($cyan));
+  background-image: -webkit-linear-gradient(135deg, $green 0, $cyan 100%);
+  background-image: -moz-linear-gradient(135deg, $green 0, $cyan 100%);
+  background-image: linear-gradient(135deg, $green 0, $cyan 100%);
+ }
+
+ .drac-text-cyan-green {
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-image: linear-gradient(
+    135deg,
+    $cyan 0,
+    $green 100%
+  );
+  background-size: 100%;
+  -webkit-box-decoration-break: clone;
+}

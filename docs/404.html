@@ -1,0 +1,111 @@
+---
+colorspace: red
+icon: /assets/images/diablo-iii.svg
+carousels:
+  - images:
+    - image: /D3StudioFork/assets/images/D3SF-Home.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-Account-General.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-Item.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-Item-Flags.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-Item-Rare-Name.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-Hero-Visuals.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-Hero-General.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-IDE-User-GBIDs.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-Account-Stashes-Raw.png?v=4.3
+    - image: /D3StudioFork/assets/images/D3SF-About.png?v=4.3
+---
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <!-- <link rel="canonical" href="{{ site.url }}"> -->
+  <script>location.replace("{{ site.url }}");</script>
+  <meta http-equiv="refresh" content="0; url={{ site.url }}">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta property="twitter:title" content="{{ site.title }}">
+  <meta name="msapplication-TileColor" content="#45475b">
+  <meta name="theme-color" content="#ffffff">
+  <script type="application/ld+json">
+  {
+      "@context":"https://schema.org",
+      "@type":"WebSite",
+      "description":"{{ site.description }}",
+      "headline":"Next generation Diablo 3 save editor (Reaper of Souls &amp; Eternal Collection)",
+      "name":"{{ site.title }}",
+      "url":"{{ site.url }}"
+  }
+  </script>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=4.3">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=4.3">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=4.3">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="/site.webmanifest?v=4.3">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=4.3" color="#490005">
+  <link rel="shortcut icon" href="/favicon.ico?v=4.3">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TMRB6RTDDJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-TMRB6RTDDJ');
+  </script>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" type="text/css">
+  <script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <!--[if lt IE 8]>
+  <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+  <![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="{{ page.colorspace }}">
+  {%- if site.show_header %}
+  <div id="header">
+    <nav>
+      <ul>
+        <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+        <li class="downloads"><a href="{{ site.github.latest_release.html_url }}">Release Notes</a></li>
+        <li class="downloads"><a href="{{ site.github.latest_release.assets[0].browser_download_url }}">{{ site.github.latest_release.name }}</a></li>
+        <li class="title">DOWNLOAD <span style="font-size:13px">&rarr;</span></li>
+      </ul>
+    </nav>
+  </div>
+  {%- endif %}
+  <div class="wrapper">
+    {%- if site.show_header %}
+    <section>
+    {%- else %}
+    <section class="no-header">
+    {%- endif %}
+      <div id="title">
+        {%- if page.icon %}
+        <img width="220" height="220" loading="eager" src="{{ page.icon | relative_url }}" alt="Diablo 3 Logo">
+        {%- endif %}
+        <h1><span class="drac-gradient drac-orange-red">{{ site.name | default: site.github.repository_name }}</span></h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <hr>
+      </div>
+      <div id="main">
+{{ content }}
+      </div>
+      <div id="footer">
+        <hr>
+        <span class="credits left"><span class="drac-gradient drac-purple-pink">Project maintained by</span> <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+        <span class="credits right"><a href="{{ site.url }}">diablo.jester.dev</a> <span class="drac-gradient drac-purple-pink">&mdash; Join us on</span> <a href="https://jester.dev/discord">Discord</a></span>
+      </div>
+    </section>
+  </div>
+</body>
+</html>

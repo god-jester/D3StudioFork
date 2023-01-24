@@ -1,0 +1,10 @@
+name: "D3Studio{Fork}"
+title: "D3StudioFork | Diablo 3 Save Editor: RoS &amp; Eternal Collection"
+description: "Save editor for Diablo 3 Reaper of Souls and Eternal Collection, made for PS4 &amp; Nintendo Switch. Mod your character/account items, gold, materials, gear, and stats"
+baseurl: /D3StudioFork/
+url: https://diablo.jester.dev/D3StudioFork/
+remote_theme: "dracula/gh-pages"
+show_downloads: true
+show_header: true
+sass:
+  style: expanded

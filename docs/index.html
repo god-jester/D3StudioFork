@@ -44,14 +44,14 @@ carousels:
           </a>
         </p>
         <h4 style="text-align: center">
-          <span class="drac-text-cyan-green">Currently updated for Season 27, with Season 28 planned when it releases soon in 2023!</span>
+          <span class="drac-text-cyan-green">Currently updated for Season 28 (v2.7.5) as of February 24th 2023!</span>
         </h4>
         <hr>
         {%- include carousel.html height="80" unit="%" duration="6" number="1" %}
         <br>
         <h3 id="exclusive-features">Exclusive features found only in this editor:</h3>
         <ul>
-          <li><strong>Every single GBID (7,206), Affix (7,479), and Rare Name string (60,679) in the game</strong></li>
+          <li><strong>Every single GBID (8,334), Affix (7,352), and Rare Name string (115,669) in the game</strong></li>
           <li>Incredible performance: launches and loads saves in a fraction of the time of all other editors, with massively reduced RAM usage</li>
           <li>Instant responsiveness: tasks and threading implemented by GoobyCorp
             <ul>
@@ -75,7 +75,7 @@ carousels:
               <li>Old-gen importing cannot affect seasons, so please use <a href="https://github.com/god-jester/D3StudioFast/releases/latest">D3StudioFast</a> for 360/PS3 legacy methods</li>
             </ul>
           </li>
-          <li>Single executable file, with a total of 2 folders and about 16 files in the ZIP, for a total size of ~4.5MB - NOT cluttered with useless HUGE files like other editors</li>
+          <li>Single executable file, with a total of 2 folders and about 16 files in the ZIP, for a total size of ~4.2MB - NOT cluttered with useless HUGE files like other editors</li>
           <li>The Stash tab used to have items stuck in different slots when importing from the Locker or a Hero File, but now it will correctly force everything into your Stash</li>
           <li>Still the only editor to handle all the new data in S25 Soul Shards (which, along with Ethereals, can still be used in all seasonal play)
             <ul>
@@ -88,12 +88,10 @@ carousels:
           <li><strong>Everything is inside one EXE now</strong></li>
           <li>Added “Seasonal” checkbox next to the “Set 21 Dots/Max Stats” button that will instantly convert your character to and from current season</li>
           <li>Removed the (Seasonal) text from the Sex/HeroCore dropdown; each season seems to rotate the IDs, so it was unreliable</li>
-          <li>Made all stashes forcibly and recursively change the item slot from 0-910 (max) for each item, this avoids situations where editing and duping too many items in the editor wouldn’t show up in-game: I ran into this issue with only 148 items in my stash, now <strong>fixed!</strong></li>
           <li>Fixed type conversion for item IDs to what the game expects: <code class="language-plaintext highlighter-rouge">unsigned long</code> - this fixes some rare arithmetic errors</li>
           <li>Fixed Blacksmith being set to level 56, correctly goes to 12 now</li>
           <li>Error messages are now more descriptive if there is an issue when launching, previously it would ALWAYS say “Fatal Error: Missing libraries”</li>
           <li>Added a “Max Positive Stats” button on Hero page next to “Set 21 Dots/Max Stats” for Paragon modding, with updated math to be as potent as possible</li>
-          <li>Changed cosmetic images and icons, and they no longer stretch/distort. The new size of primary executable is ~4MB</li>
           <li>Changed colors and layout all around the whole tool, and if an item’s prefix is “Jester’s” it has a custom color!</li>
           <li>Lots and lots of improvements to the UI (e.g. layout improvements, fixed typos) and quality-of-life features (easier duplication, pasting rare names, etc.)</li>
         </ul>
